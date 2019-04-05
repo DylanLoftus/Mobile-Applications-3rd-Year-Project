@@ -11,7 +11,7 @@ using map;
 
 namespace Utils
 {
-	public class Utils : ContentPage
+	public class Utils
 	{
         public const string JSON_RECIPE_FILE = "bread.txt";
 
@@ -35,16 +35,15 @@ namespace Utils
             {
                 var assembly = IntrospectionExtensions.GetTypeInfo(
                                                 typeof(MainPage)).Assembly;
+                //Assembly.GetExecutingAssembly().GetManifestResourceNames();
                 // create the stream
-                Stream stream = assembly.GetManifestResourceStream(
-                                   datatext);
+                Stream stream = assembly.GetManifestResourceStream(datatext);
                 using (var reader = new StreamReader(stream))
                 {
                     jsonText = reader.ReadToEnd();
                     // include JSON library now
                 }
             }
-
             myList = JsonConvert.DeserializeObject<List<Recipe>>(jsonText);
 
             return myList;
