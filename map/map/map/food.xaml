@@ -20,12 +20,30 @@
                 <Image Source="Images/mainicon.png" WidthRequest="25" HeightRequest="25" VerticalOptions="Center" ></Image>
             </StackLayout>
 
-            <StackLayout HorizontalOptions="Center" Grid.Row="1" Grid.ColumnSpan="2" Orientation="Horizontal">
+            <StackLayout HorizontalOptions="Center" Grid.Row="1" Grid.ColumnSpan="2" Orientation="Horizontal" Margin="0,0,0,50">
                 <ImageButton x:Name="bread" Source="Images/bread.jpeg" WidthRequest="300" HeightRequest="200">
                     
                 </ImageButton>
-                <ImageButton x:Name="eggs" Source="Images/eggs.png" WidthRequest="300" HeightRequest="200">
+                <ImageButton x:Name="eggs" Source="Images/eggs.png" WidthRequest="300" HeightRequest="200" >
                     
+                </ImageButton>
+            </StackLayout>
+
+            <StackLayout HorizontalOptions="Center" Grid.Row="2" Grid.ColumnSpan="2" Orientation="Horizontal" Margin="0,0,0,50">
+                <ImageButton x:Name="chilli" Source="Images/chilli.jpeg" WidthRequest="300" HeightRequest="200">
+
+                </ImageButton>
+                <ImageButton x:Name="spag" Source="Images/spag.jpeg" WidthRequest="300" HeightRequest="200">
+
+                </ImageButton>
+            </StackLayout>
+
+            <StackLayout HorizontalOptions="Center" Grid.Row="3" Grid.ColumnSpan="2" Orientation="Horizontal">
+                <ImageButton x:Name="cordon" Source="Images/cordon.jpeg" WidthRequest="300" HeightRequest="200">
+
+                </ImageButton>
+                <ImageButton x:Name="fruit" Source="Images/fruit.jpeg" WidthRequest="300" HeightRequest="200">
+
                 </ImageButton>
             </StackLayout>
 
