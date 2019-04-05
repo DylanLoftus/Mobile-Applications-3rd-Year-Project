@@ -10,9 +10,9 @@ using Xamarin.Forms.Xaml;
 namespace map
 {
 	[XamlCompilation(XamlCompilationOptions.Compile)]
-	public partial class food : ContentPage
+	public partial class Food : ContentPage
 	{
-		public food ()
+		public Food ()
 		{
 			InitializeComponent ();
 		}

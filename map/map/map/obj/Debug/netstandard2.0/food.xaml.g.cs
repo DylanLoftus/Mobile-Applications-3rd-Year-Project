@@ -8,17 +8,17 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("map.food.xaml", "food.xaml", typeof(global::map.food))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("map.Food.xaml", "Food.xaml", typeof(global::map.Food))]
 
 namespace map {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("food.xaml")]
-    public partial class food : global::Xamarin.Forms.ContentPage {
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Food.xaml")]
+    public partial class Food : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(food));
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(Food));
         }
     }
 }

@@ -16,7 +16,7 @@ namespace map
 
         private void Button_Clicked(object sender, EventArgs e)
         {
-            //Navigation.PushAsync(new FoodPage());
+            Navigation.PushAsync(new Food());
         }
     }
 }
