@@ -135,7 +135,7 @@
     <Content Include="Images\cordon.jpeg" />
     <Content Include="Images\eggs.png" />
     <Content Include="Images\fruit.jpeg" />
-    <Content Include="Images\mainIcon.png" />
+    <Content Include="Images\mainicon.png" />
     <Content Include="Images\spag.jpeg" />
     <Content Include="Properties\Default.rd.xml" />
   </ItemGroup>

@@ -17,10 +17,20 @@
 
             <StackLayout BackgroundColor="White" Grid.Row="0" Grid.ColumnSpan="2" Orientation="Horizontal" Margin="0,0,0,20" HorizontalOptions="FillAndExpand">
                 <Label Text="Choose a recipe"></Label>
-                <Image Source="Images/mainIcon.png" WidthRequest="30" HeightRequest="30" ></Image>
+                <Image Source="Images/mainicon.png" WidthRequest="25" HeightRequest="25" VerticalOptions="Center" ></Image>
             </StackLayout>
 
-            
+            <StackLayout HorizontalOptions="Center" Grid.Row="1" Grid.ColumnSpan="2" Orientation="Horizontal">
+                <ImageButton x:Name="bread" Source="Images/bread.jpeg" WidthRequest="300" HeightRequest="200">
+                    
+                </ImageButton>
+                <ImageButton x:Name="eggs" Source="Images/eggs.png" WidthRequest="300" HeightRequest="200">
+                    
+                </ImageButton>
+            </StackLayout>
+
+
+
 
         </Grid>
     </ContentPage.Content>

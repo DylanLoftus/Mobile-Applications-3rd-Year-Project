@@ -646,8 +646,8 @@
     <AppxPackagedFile Include="C:\Users\Dylan\Documents\MAP\map\map\map.UWP\Images\eggs.png">
       <PackagePath>Images\eggs.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Dylan\Documents\MAP\map\map\map.UWP\Images\mainIcon.png">
-      <PackagePath>Images\mainIcon.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\Dylan\Documents\MAP\map\map\map.UWP\Images\mainicon.png">
+      <PackagePath>Images\mainicon.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dylan\Documents\MAP\map\map\map.UWP\Images\bread.jpeg">
       <PackagePath>Images\bread.jpeg</PackagePath>
