@@ -1,0 +1,14 @@
+{
+  "url": "https://www.youtube.com/embed/ppCUJMg0q_A",
+  "item1": "1 loaf French bread",
+  "item2": "½ cup salted butter, softened",
+  "item3": "½ teaspoon garlic powder",
+  "item4": "3 garlic cloves, minced",
+  "item5": "1 teaspoon Italian seasoning",
+  "item6": "½ cup shredded parmesan cheese",
+  "item7": "fresh chopped parsley for garnish",
+  "instr1": "Preheat oven to 400 degrees. Cut your French bread loaf lengthwise and place on top of a baking sheet.",
+  "instr2": "In a small bowl combine softened butter, garlic powder, minced garlic, Italian seasoning and shredded cheese. Spread evenly on each side of the garlic bread.",
+  "instr3": "Bake in the oven for 12-15 minutes until butter is melted an bubbly. You can also broil the top for 1-2 minutes at the end to give it a more crisp top.",
+  "instr4": "Garnish with fresh chopped parsley if desired."
+}

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="map.Bread">
+    <ContentPage.Content>
+        <Grid BackgroundColor="Yellow">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="Auto"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+
+            <StackLayout BackgroundColor="White" Grid.Row="0" Orientation="Horizontal" Margin="0,0,0,20" HorizontalOptions="FillAndExpand">
+                <Label Text="Garlic Bread Recipe"></Label>
+                <Image Source="Images/mainicon.png" WidthRequest="25" HeightRequest="25" VerticalOptions="Center" ></Image>
+            </StackLayout>
+
+            <StackLayout HorizontalOptions="Center" Margin="20,0,0,10" Grid.Row="1">
+                <Label Text="Garlic Bread Recipe"></Label>
+            </StackLayout>
+
+            <StackLayout HorizontalOptions="Center" Margin="0,0,0,10" Grid.Row="2">
+                
+                
+                
+            </StackLayout>
+            
+            
+
+            
+
+
+
+
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>
