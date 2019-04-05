@@ -13,7 +13,6 @@ namespace map
 	[XamlCompilation(XamlCompilationOptions.Compile)]
 	public partial class Bread : ContentPage
 	{
-
         List<Recipe> recipeList;
 
 		public Bread ()
@@ -25,8 +24,17 @@ namespace map
         private void SetDefaults()
         {
             if (recipeList == null) recipeList = new List<Recipe>();
-
-            recipeList = Utils.Utils.ReadRecipeData();
+            recipeList = Utils.Utils.ReadRecipeData("map.Data.bread.txt");
         }
-	}
+
+        private void BuyIngredients_Clicked(object sender, EventArgs e)
+        {
+
+        }
+
+        private void SaveToFav_Clicked(object sender, EventArgs e)
+        {
+
+        }
+    }
 }

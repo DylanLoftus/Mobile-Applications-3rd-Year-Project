@@ -13,9 +13,9 @@ namespace Utils
 {
 	public class Utils : ContentPage
 	{
-        public const string JSON_DOGS_FILE = "bread.txt";
+        public const string JSON_RECIPE_FILE = "bread.txt";
 
-        public static List<Recipe> ReadRecipeData()
+        public static List<Recipe> ReadRecipeData(string datatext)
         {
             List<Recipe> myList = new List<Recipe>();
             string jsonText;
@@ -24,7 +24,7 @@ namespace Utils
             {
                 string path = Environment.GetFolderPath(
                                 Environment.SpecialFolder.LocalApplicationData);
-                string filename = Path.Combine(path, JSON_DOGS_FILE);
+                string filename = Path.Combine(path, JSON_RECIPE_FILE);
                 using (var reader = new StreamReader(filename))
                 {
                     jsonText = reader.ReadToEnd();
@@ -37,7 +37,7 @@ namespace Utils
                                                 typeof(MainPage)).Assembly;
                 // create the stream
                 Stream stream = assembly.GetManifestResourceStream(
-                                    "map.Data.bread.txt");
+                                   datatext);
                 using (var reader = new StreamReader(stream))
                 {
                     jsonText = reader.ReadToEnd();
