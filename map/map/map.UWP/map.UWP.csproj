@@ -130,6 +130,13 @@
     <Content Include="Assets\Wide310x150Logo.scale-100.png" />
     <Content Include="Assets\Wide310x150Logo.scale-200.png" />
     <Content Include="Assets\Wide310x150Logo.scale-400.png" />
+    <Content Include="Images\bread.jpeg" />
+    <Content Include="Images\chilli.jpeg" />
+    <Content Include="Images\cordon.jpeg" />
+    <Content Include="Images\eggs.png" />
+    <Content Include="Images\fruit.jpeg" />
+    <Content Include="Images\mainIcon.png" />
+    <Content Include="Images\spag.jpeg" />
     <Content Include="Properties\Default.rd.xml" />
   </ItemGroup>
   <ItemGroup>
@@ -144,7 +151,7 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Xamarin.Forms" Version="3.4.0.1008975" />
-    <PackageReference Include="Microsoft.NETCore.UniversalWindowsPlatform" Version="6.1.5"/>
+    <PackageReference Include="Microsoft.NETCore.UniversalWindowsPlatform" Version="6.1.5" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\map\map.csproj">

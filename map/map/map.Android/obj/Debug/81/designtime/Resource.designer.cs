@@ -2910,7 +2910,7 @@ namespace map.Droid
 			public const int ic_vol_type_tv_light = 2131296516;
 			
 			// aapt resource value: 0x7F010007
-			public const int mainIcon = 2130771975;
+			public const int mainicon = 2130771975;
 			
 			// aapt resource value: 0x7F090105
 			public const int mr_button_connected_dark = 2131296517;
