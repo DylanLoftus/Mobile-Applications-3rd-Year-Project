@@ -1,0 +1,12 @@
+C:\Users\Dylan\Documents\MAP\map\map\map\bin\Debug\netstandard2.0\map.deps.json
+C:\Users\Dylan\Documents\MAP\map\map\map\bin\Debug\netstandard2.0\map.dll
+C:\Users\Dylan\Documents\MAP\map\map\map\bin\Debug\netstandard2.0\map.pdb
+C:\Users\Dylan\Documents\MAP\map\map\map\obj\Debug\netstandard2.0\map.csprojAssemblyReference.cache
+C:\Users\Dylan\Documents\MAP\map\map\map\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Dylan\Documents\MAP\map\map\map\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Dylan\Documents\MAP\map\map\map\obj\Debug\netstandard2.0\map.csproj.CoreCompileInputs.cache
+C:\Users\Dylan\Documents\MAP\map\map\map\obj\Debug\netstandard2.0\map.AssemblyInfoInputs.cache
+C:\Users\Dylan\Documents\MAP\map\map\map\obj\Debug\netstandard2.0\map.AssemblyInfo.cs
+C:\Users\Dylan\Documents\MAP\map\map\map\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Dylan\Documents\MAP\map\map\map\obj\Debug\netstandard2.0\map.dll
+C:\Users\Dylan\Documents\MAP\map\map\map\obj\Debug\netstandard2.0\map.pdb
