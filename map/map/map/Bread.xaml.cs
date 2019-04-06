@@ -14,7 +14,7 @@ namespace map
 	public partial class Bread : ContentPage
 	{
         List<Recipe> recipeList;
-
+        public static int favClicked = 0;
 		public Bread ()
 		{
 			InitializeComponent ();
@@ -35,6 +35,8 @@ namespace map
 
         private void SaveToFav_Clicked(object sender, EventArgs e)
         {
+            favClicked = 1;
+            DisplayAlert("Favorite Added","Added to Favorites!","Okay","Cancel");
 
         }
 

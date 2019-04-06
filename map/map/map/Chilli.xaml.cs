@@ -14,6 +14,7 @@ namespace map
 	public partial class Chilli : ContentPage
 	{
         List<Recipe> recipeList;
+        public static int favClicked;
 
         public Chilli()
         {
@@ -35,7 +36,8 @@ namespace map
 
         private void SaveToFav_Clicked(object sender, EventArgs e)
         {
-
+            favClicked = 1;
+            DisplayAlert("Favorite Added", "Added to Favorites!", "Okay", "Cancel");
         }
 
         private void LvRecipe_ItemLoad(object sender, SelectedItemChangedEventArgs e)
