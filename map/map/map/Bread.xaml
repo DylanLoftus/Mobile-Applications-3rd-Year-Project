@@ -38,7 +38,7 @@
 
             <StackLayout BackgroundColor="White" Grid.Row="0" Orientation="Horizontal" Margin="0,0,0,20" HorizontalOptions="FillAndExpand">
                 <Label Text="Garlic Bread Recipe"></Label>
-                <Image Source="Images/mainicon.png" WidthRequest="25" HeightRequest="25" VerticalOptions="Center" ></Image>
+                <Image Source="Images/mainicon.png" WidthRequest="25" HeightRequest="25" VerticalOptions="Center"></Image>
             </StackLayout>
 
             <ListView x:Name="lvRecipe" Margin="3, 3, 3, 0"

@@ -46,6 +46,10 @@ namespace map
         {
             Navigation.PushAsync(new Fruit());
         }
-        
+
+        private void Favorites_Clicked(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new Favorites());
+        }
     }
 }

@@ -15,9 +15,10 @@
                 <ColumnDefinition Width="*"></ColumnDefinition>
             </Grid.ColumnDefinitions>
 
-            <StackLayout BackgroundColor="White" Grid.Row="0" Grid.ColumnSpan="2" Orientation="Horizontal" Margin="0,0,0,20" HorizontalOptions="FillAndExpand">
+            <StackLayout BackgroundColor="White" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" Orientation="Horizontal" Margin="0,0,0,20">
                 <Label Text="Choose a recipe"></Label>
-                <Image Source="Images/mainicon.png" WidthRequest="25" HeightRequest="25" VerticalOptions="Center" ></Image>
+                <Image Source="Images/mainicon.png" WidthRequest="25" HeightRequest="25" VerticalOptions="Center" HorizontalOptions="Center" Margin="150,0,0,0"></Image>
+                <Button Text="Favorites" Clicked="Favorites_Clicked" Margin="150,0,0,0"/>
             </StackLayout>
 
             <StackLayout HorizontalOptions="Center" Grid.Row="1" Grid.ColumnSpan="2" Orientation="Horizontal" Margin="0,0,0,40">
