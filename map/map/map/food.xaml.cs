@@ -29,7 +29,7 @@ namespace map
 
         private void Chilli_Clicked(object sender, EventArgs e)
         {
-            
+            Navigation.PushAsync(new Chilli());
         }
 
         private void Spag_Clicked(object sender, EventArgs e)
@@ -39,7 +39,7 @@ namespace map
 
         private void Cordon_Clicked(object sender, EventArgs e)
         {
-             
+            Navigation.PushAsync(new Chicken());
         }
 
         private void Fruit_Clicked(object sender, EventArgs e)

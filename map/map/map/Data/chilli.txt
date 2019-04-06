@@ -1,0 +1,7 @@
+[
+	{
+	  "url": "https://www.youtube.com/embed/9sGWC3ED--E",
+	  "ingredients": "1 pinch Black Pepper\n1 pinch Cayenne Pepper\n2 cloves Garlic\n1 tbsp Ground Cinnamon\n2 tbsp Ground Cumin\n1 tbsp Honey\n1 tin Kidney Beans\n500 g Lean Round Steak Mince\n1 x Lime\n2 tbsp Olive Oil\n1 x Onion\n1 tbsp Paprika\n3 x Red Chilli\n1 x Red Pepper\n1 pinch Salt\n1 handfull SuperValu Fresh Coriander\n500 g Tomatoes\n1 x Yellow Pepper\n",
+	  "instructions": "Heat the oil in a large saucepan over a medium-high heat.\n Add the onion and sauté for 10 minutes before adding the chillies, bell peppers and garlic.\n Cook for a few minutes more, then add the minced beef and spices.\n Cook until meat has browned, then add the chopped tomatoes and simmer for 20 minutes.\nStir in the kidney beans and lime juice and simmer for another 5 minutes, then add the fresh coriander and honey to taste.\n If you like it spicier, add a pinch of cayenne pepper or some dried chilli flakes.\n Season well with salt and freshly ground black pepper.\n"
+	}
+]

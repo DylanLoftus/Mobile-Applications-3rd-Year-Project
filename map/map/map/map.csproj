@@ -11,10 +11,14 @@
 
   <ItemGroup>
     <None Remove="Data\bread.txt" />
+    <None Remove="Data\chicken.txt" />
+    <None Remove="Data\chilli.txt" />
   </ItemGroup>
 
   <ItemGroup>
     <EmbeddedResource Include="Data\bread.txt" />
+    <EmbeddedResource Include="Data\chicken.txt" />
+    <EmbeddedResource Include="Data\chilli.txt" />
   </ItemGroup>
 
   <ItemGroup>
@@ -24,6 +28,12 @@
 
   <ItemGroup>
     <EmbeddedResource Update="Bread.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Chicken.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Chilli.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="Food.xaml">

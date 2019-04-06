@@ -3,7 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="map.Food">
     <ContentPage.Content>
-        <Grid BackgroundColor="Yellow">
+        <Grid BackgroundColor="#db2e2e">
             <Grid.RowDefinitions>
                 <RowDefinition Height="Auto"></RowDefinition>
                 <RowDefinition Height="Auto"></RowDefinition>
