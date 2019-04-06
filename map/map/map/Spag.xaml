@@ -49,8 +49,8 @@
                       Grid.Row="0" Grid.Column="0"
                       ItemTemplate="{StaticResource RecipeTemplate}" />
 
-            <StackLayout HorizontalOptions="Center" Margin="20,0,0,10" Grid.Row="1">
-                <Label Text="Spaghetti Bolognese Recipe"></Label>
+            <StackLayout HorizontalOptions="Center" BackgroundColor="#bcb5b5" Margin="20,0,0,10" Grid.Row="1">
+                <Label Text="Spaghetti Bolognese Recipe" FontAttributes="Bold"></Label>
             </StackLayout>
 
             <StackLayout x:Name="YoutubeStack" HorizontalOptions="Center" Margin="0,0,0,10" Grid.Row="2">
