@@ -1,0 +1,7 @@
+[
+	{
+		"url":"https://www.youtube.com/embed/bqbuF6reYWA",
+		"ingredients":"400g spaghetti\n 2 tbsp olive oil\n 500g beef mince\n 8 rashers smoked streaky bacon, roughly chopped\n 1 onion, finely chopped\n 2 garlic cloves, finely chopped\n 1 small carrot, grated\n 75g mushrooms, finely chopped\n 2 x 400g tins chopped tomatoes\n 1 tbsp tomato purée\n 250ml red wine\n 1 tsp dried oregano\n Handful of fresh basil, chopped\n Finely grated parmesan cheese, to serve\n",
+		"instructions":"Add 1 tbsp olive oil to a large frying pan over a medium heat and fry the mince for 2-3 minutes until browned. Remove and set aside on a plate.\n Heat the rest of the oil in the frying pan, then add the bacon and fry for 2 minutes. Add the onion and garlic and fry for a further 2 minutes.\n Add the carrot and mushrooms and fry for 2 minutes more. Return the mince to the pan with the tomatoes, tomato purée, red wine and oregano. Bring to the boil, then turn down the heat and simmer for 20 minutes.\n While this is cooking bring a large pot of water to the boil, add the spaghetti and cook according to packet instructions.\n Once bolognese is cooked season to taste and stir through the basil. Drain the spaghetti, add half the bolognese to this and serve in large pasta bowls, serve with the rest on top and some parmesan cheese.\n"
+	}
+]

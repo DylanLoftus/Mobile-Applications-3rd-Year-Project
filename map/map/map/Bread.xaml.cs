@@ -25,8 +25,8 @@ namespace map
         {
             if (recipeList == null) recipeList = new List<Recipe>();
             recipeList = Utils.Utils.ReadRecipeData("map.Data.bread.txt");
-            ClickOnCanvas();
             lvRecipe.ItemsSource = recipeList;
+            ClickOnCanvas();
         }
 
         private void ClickOnCanvas()

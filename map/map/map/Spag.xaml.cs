@@ -10,11 +10,11 @@ using Xamarin.Forms.Xaml;
 namespace map
 {
 	[XamlCompilation(XamlCompilationOptions.Compile)]
-	public partial class Chicken : ContentPage
+	public partial class Spag : ContentPage
 	{
         List<Recipe> recipeList;
 
-        public Chicken()
+        public Spag()
         {
             InitializeComponent();
             SetDefaults();
@@ -23,7 +23,7 @@ namespace map
         private void SetDefaults()
         {
             if (recipeList == null) recipeList = new List<Recipe>();
-            recipeList = Utils.Utils.ReadRecipeData("map.Data.chicken.txt");
+            recipeList = Utils.Utils.ReadRecipeData("map.Data.spag.txt");
             lvRecipe.ItemsSource = recipeList;
             ClickOnCanvas();
         }

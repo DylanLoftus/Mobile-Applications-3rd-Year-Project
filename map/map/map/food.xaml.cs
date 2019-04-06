@@ -34,7 +34,7 @@ namespace map
 
         private void Spag_Clicked(object sender, EventArgs e)
         {
-             
+            Navigation.PushAsync(new Spag());
         }
 
         private void Cordon_Clicked(object sender, EventArgs e)

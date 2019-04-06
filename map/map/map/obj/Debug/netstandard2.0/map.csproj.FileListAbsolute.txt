@@ -14,3 +14,4 @@ C:\Users\Dylan\Documents\MAP\map\map\map\obj\Debug\netstandard2.0\map.dll
 C:\Users\Dylan\Documents\MAP\map\map\map\obj\Debug\netstandard2.0\map.pdb
 C:\Users\Dylan\Documents\MAP\map\map\map\obj\Debug\netstandard2.0\Chilli.xaml.g.cs
 C:\Users\Dylan\Documents\MAP\map\map\map\obj\Debug\netstandard2.0\Chicken.xaml.g.cs
+C:\Users\Dylan\Documents\MAP\map\map\map\obj\Debug\netstandard2.0\Spag.xaml.g.cs
