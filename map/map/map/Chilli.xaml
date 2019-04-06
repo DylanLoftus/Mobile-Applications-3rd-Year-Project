@@ -42,7 +42,7 @@
             </StackLayout>
 
             <ListView x:Name="lvRecipe" Margin="3, 3, 3, 0"
-                      ItemSelected="LvRecipe_ItemSelected"
+                      ItemAppearing="LvRecipe_ItemLoad"
                       WidthRequest="20"
                       HeightRequest="20"
                       Opacity="0"

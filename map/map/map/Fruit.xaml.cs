@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+using System.Runtime.InteropServices;
 
 namespace map
 {
@@ -25,14 +26,8 @@ namespace map
             if (recipeList == null) recipeList = new List<Recipe>();
             recipeList = Utils.Utils.ReadRecipeData("map.Data.fruit.txt");
             lvRecipe.ItemsSource = recipeList;
-            ClickOnCanvas();
         }
-
-        private void ClickOnCanvas()
-        {
-
-        }
-
+    
         private void BuyIngredients_Clicked(object sender, EventArgs e)
         {
 
@@ -42,8 +37,8 @@ namespace map
         {
 
         }
-
-        private void LvRecipe_ItemSelected(object sender, SelectedItemChangedEventArgs e)
+    
+        private void LvRecipe_ItemLoad(object sender, SelectedItemChangedEventArgs e)
         {
             RecipeStack.BindingContext = (Recipe)e.SelectedItem;
             YoutubeStack.BindingContext = (Recipe)e.SelectedItem;
