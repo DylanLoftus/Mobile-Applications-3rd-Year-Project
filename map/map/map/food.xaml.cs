@@ -19,12 +19,12 @@ namespace map
 
         private void Bread_Clicked(object sender, EventArgs e)
         {
-             Navigation.PushAsync(new Bread());
+            Navigation.PushAsync(new Bread());
         }
         
         private void Eggs_Clicked(object sender, EventArgs e)
         {
-           
+            Navigation.PushAsync(new Eggs());
         }
 
         private void Chilli_Clicked(object sender, EventArgs e)
@@ -44,7 +44,7 @@ namespace map
 
         private void Fruit_Clicked(object sender, EventArgs e)
         {
-             
+            Navigation.PushAsync(new Fruit());
         }
         
     }

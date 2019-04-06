@@ -1,0 +1,10 @@
+[
+	{
+		"url":"https://www.youtube.com/embed/L1GfVap-iKQ",
+		"ingredients":"1 pineapple\n 2 pounds strawberries\n 4 kiwis\n 2 tablespoons sugar or honey\n 1 tablespoon poppy seeds\n",
+		"instructions":"Prepare the fruits.\n Pineapple: Cut the pineapple into bite-sized cubes (See the cooking lesson above).\n Strawberries: Rinse them thoroughly, hull them, and cut the big strawberries into quarters, and the smaller ones in half for bite sized pieces.\n Kiwis: Peel the kiwi, then cut into bite-sized cubes.\n
+Combine all the prepared fruit in a large mixing bowl.\n Squeeze the juice of one lemon over the fruit.\n Sprinkle the sugar and poppy seeds over and then stir gently to combine.\n
+Chill for at least 30 minutes before serving.\n
+"
+	}
+]
