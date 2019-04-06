@@ -13,6 +13,8 @@
     <None Remove="Data\bread.txt" />
     <None Remove="Data\chicken.txt" />
     <None Remove="Data\chilli.txt" />
+    <None Remove="Data\eggs.txt" />
+    <None Remove="Data\fruit.txt" />
     <None Remove="Data\spag.txt" />
   </ItemGroup>
 
@@ -20,6 +22,8 @@
     <EmbeddedResource Include="Data\bread.txt" />
     <EmbeddedResource Include="Data\chicken.txt" />
     <EmbeddedResource Include="Data\chilli.txt" />
+    <EmbeddedResource Include="Data\eggs.txt" />
+    <EmbeddedResource Include="Data\fruit.txt" />
     <EmbeddedResource Include="Data\spag.txt" />
   </ItemGroup>
 
@@ -38,7 +42,13 @@
     <EmbeddedResource Update="Chilli.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
+    <EmbeddedResource Update="Eggs.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
     <EmbeddedResource Update="Food.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Fruit.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="Spag.xaml">

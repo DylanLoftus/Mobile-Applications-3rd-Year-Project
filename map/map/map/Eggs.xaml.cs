@@ -23,7 +23,7 @@ namespace map
         private void SetDefaults()
         {
             if (recipeList == null) recipeList = new List<Recipe>();
-            recipeList = Utils.Utils.ReadRecipeData("map.Data.spag.txt");
+            recipeList = Utils.Utils.ReadRecipeData("map.Data.eggs.txt");
             lvRecipe.ItemsSource = recipeList;
             ClickOnCanvas();
         }
