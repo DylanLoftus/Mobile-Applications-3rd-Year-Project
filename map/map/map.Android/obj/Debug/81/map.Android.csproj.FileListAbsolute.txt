@@ -112,6 +112,4 @@ C:\Users\Dylan\Documents\MAP\map\map\map.Android\obj\Debug\81\android\assets\Sys
 C:\Users\Dylan\Documents\MAP\map\map\map.Android\obj\Debug\81\android\assets\Xamarin.Forms.Core.pdb
 C:\Users\Dylan\Documents\MAP\map\map\map.Android\obj\Debug\81\android\assets\Xamarin.Forms.Platform.Android.pdb
 C:\Users\Dylan\Documents\MAP\map\map\map.Android\obj\Debug\81\android\assets\Xamarin.Forms.Xaml.pdb
-C:\Users\Dylan\Documents\MAP\map\map\map\bin\Debug\netstandard2.0\map.dll
-C:\Users\Dylan\Documents\MAP\map\map\map.Android\bin\Debug\map.dll.mdb
 C:\Users\Dylan\Documents\MAP\map\map\map.Android\obj\Debug\81\linksrc\map.dll.mdb

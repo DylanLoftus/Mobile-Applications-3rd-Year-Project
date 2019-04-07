@@ -111,5 +111,10 @@ namespace map
         {
             Navigation.PushAsync(new Favorites());
         }
+
+        private void FoodPage_Clicked(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new Food());
+        }
     }
 }

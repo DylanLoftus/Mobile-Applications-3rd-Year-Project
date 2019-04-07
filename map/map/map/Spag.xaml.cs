@@ -45,5 +45,10 @@ namespace map
             RecipeStack.BindingContext = (Recipe)e.SelectedItem;
             YoutubeStack.BindingContext = (Recipe)e.SelectedItem;
         }
+
+        private void Favorites_Clicked(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new Favorites());
+        }
     }
 }
