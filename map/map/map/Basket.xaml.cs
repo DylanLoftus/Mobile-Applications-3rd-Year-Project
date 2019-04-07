@@ -13,15 +13,21 @@ namespace map
 	public partial class Basket : ContentPage
 	{
         private double grandTotals;
+        // To display total price of multiple recipes
 
 		public Basket ()
 		{
 			InitializeComponent ();
+            // Run when page is loaded
             SetDefaults();
 		}
 
         private void SetDefaults()
         {
+            // BuyIngredients_Clicked is triggered on any Recipe page
+            // Make the basket picture visible 
+            // Add total price of that Recipe to grand total
+
             if (Bread.breadBuy == 0)
             {
                 breadbasket.IsVisible = false;
@@ -87,12 +93,18 @@ namespace map
                 grandTotals += total;
                 spagbasket.IsVisible = true;
             }
+            
+            // Fill grandTotal on Xaml page with the total of all Recipes
+            // in string format
             grandTotal.Text = grandTotals.ToString();
         }
 
+        // Handles when buy button is clicked
         private void Button_Clicked(object sender, EventArgs e)
         {
+            // Display alert to tell the user they have bought the item(s)
             DisplayAlert("Purchase!", "Item(s) purchased", "Okay", "Cancel");
+            // Navigate to food page
             Navigation.PushAsync(new Food());
         }
     }

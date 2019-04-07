@@ -14,6 +14,8 @@ namespace map
             InitializeComponent();
         }
 
+        // Handles when Enter button is pressed
+        // Navigates to food page
         private void Button_Clicked(object sender, EventArgs e)
         {
             Navigation.PushAsync(new Food());
