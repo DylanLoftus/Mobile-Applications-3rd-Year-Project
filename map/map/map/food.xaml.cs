@@ -12,7 +12,9 @@ namespace map
 	[XamlCompilation(XamlCompilationOptions.Compile)]
 	public partial class Food : ContentPage
 	{
-		public Food ()
+        public static int favClicked;
+
+        public Food ()
 		{
 			InitializeComponent ();
         }
@@ -51,5 +53,6 @@ namespace map
         {
             Navigation.PushAsync(new Favorites());
         }
+
     }
 }

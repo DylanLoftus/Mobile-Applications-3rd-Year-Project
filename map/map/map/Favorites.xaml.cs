@@ -21,7 +21,7 @@ namespace map
 
         private void SetDefaults()
         {
-            if (Bread.favClicked == 0)
+            if (Bread.favClicked == 0 || Food.favClicked == 0)
             {
                 bread.IsVisible = false;
             }
@@ -30,7 +30,7 @@ namespace map
                 bread.IsVisible = true;
             }
 
-            if(Chicken.favClicked == 0)
+            if(Chicken.favClicked == 0 || Food.favClicked == 0)
             {
                 cordon.IsVisible = false;
             }
@@ -39,7 +39,7 @@ namespace map
                 cordon.IsVisible = true;
             }
 
-            if(Chilli.favClicked == 0)
+            if(Chilli.favClicked == 0 || Food.favClicked == 0)
             {
                 chilli.IsVisible = false;
             }
@@ -48,7 +48,7 @@ namespace map
                 chilli.IsVisible = true;
             }
 
-            if(Eggs.favClicked == 0)
+            if(Eggs.favClicked == 0 || Food.favClicked == 0)
             {
                 eggs.IsVisible = false;
             }
@@ -57,7 +57,7 @@ namespace map
                 eggs.IsVisible = true;
             }
 
-            if(Fruit.favClicked == 0)
+            if(Fruit.favClicked == 0 || Food.favClicked == 0)
             {
                 fruit.IsVisible = false;
             }
@@ -66,7 +66,7 @@ namespace map
                 fruit.IsVisible = true;
             }
 
-            if(Spag.favClicked == 0)
+            if(Spag.favClicked == 0 || Food.favClicked == 0)
             {
                 spag.IsVisible = false;
             }

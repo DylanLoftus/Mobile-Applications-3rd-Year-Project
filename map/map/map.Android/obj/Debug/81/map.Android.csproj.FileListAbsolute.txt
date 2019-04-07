@@ -112,4 +112,10 @@ C:\Users\Dylan\Documents\MAP\map\map\map.Android\obj\Debug\81\android\assets\Sys
 C:\Users\Dylan\Documents\MAP\map\map\map.Android\obj\Debug\81\android\assets\Xamarin.Forms.Core.pdb
 C:\Users\Dylan\Documents\MAP\map\map\map.Android\obj\Debug\81\android\assets\Xamarin.Forms.Platform.Android.pdb
 C:\Users\Dylan\Documents\MAP\map\map\map.Android\obj\Debug\81\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Users\Dylan\Documents\MAP\map\map\map.Android\obj\Debug\81\res\drawable\chickenbasket.jpg
+C:\Users\Dylan\Documents\MAP\map\map\map.Android\obj\Debug\81\res\drawable\fruitbasket.jpg
+C:\Users\Dylan\Documents\MAP\map\map\map.Android\obj\Debug\81\res\drawable\chillibasket.jpg
+C:\Users\Dylan\Documents\MAP\map\map\map.Android\obj\Debug\81\res\drawable\spagbasket.jpg
+C:\Users\Dylan\Documents\MAP\map\map\map.Android\obj\Debug\81\res\drawable\breadbasket.jpg
+C:\Users\Dylan\Documents\MAP\map\map\map.Android\obj\Debug\81\res\drawable\eggsbasket.jpg
 C:\Users\Dylan\Documents\MAP\map\map\map.Android\obj\Debug\81\linksrc\map.dll.mdb
