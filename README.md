@@ -19,5 +19,6 @@
 * Data binding used with List Views.
 * "IsAppearing" loads the listview item as the page loads whereas "ItemSelected" required the user to click on the item.
 * Using ImageButtons to Navigate throughtout the app.
+* Embedding Youtube videos can be done through a WebView.
 
 
