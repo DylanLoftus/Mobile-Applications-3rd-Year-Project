@@ -131,12 +131,18 @@
     <Content Include="Assets\Wide310x150Logo.scale-200.png" />
     <Content Include="Assets\Wide310x150Logo.scale-400.png" />
     <Content Include="Images\bread.jpeg" />
+    <Content Include="Images\breadbasket.jpg" />
+    <Content Include="Images\chickenbasket.jpg" />
     <Content Include="Images\chilli.jpeg" />
+    <Content Include="Images\chillibasket.jpg" />
     <Content Include="Images\cordon.jpeg" />
     <Content Include="Images\eggs.png" />
+    <Content Include="Images\eggsbasket.jpg" />
     <Content Include="Images\fruit.jpeg" />
+    <Content Include="Images\fruitbasket.jpg" />
     <Content Include="Images\mainicon.png" />
     <Content Include="Images\spag.jpeg" />
+    <Content Include="Images\spagbasket.jpg" />
     <Content Include="Properties\Default.rd.xml" />
   </ItemGroup>
   <ItemGroup>

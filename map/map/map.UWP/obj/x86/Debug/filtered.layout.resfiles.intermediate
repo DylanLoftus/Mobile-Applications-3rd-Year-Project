@@ -30,10 +30,16 @@ App.xbf
 MainPage.xbf
 map.UWP.xr.xml
 Images\bread.jpeg
+Images\breadbasket.jpg
+Images\chickenbasket.jpg
 Images\chilli.jpeg
+Images\chillibasket.jpg
 Images\cordon.jpeg
 Images\eggs.png
+Images\eggsbasket.jpg
 Images\fruit.jpeg
+Images\fruitbasket.jpg
 Images\mainicon.png
 Images\spag.jpeg
+Images\spagbasket.jpg
 Properties\Default.rd.xml

@@ -15,6 +15,7 @@ namespace map
 	{
         List<Recipe> recipeList;
         public static int favClicked;
+        public static int chickenBuy;
 
         public Chicken()
         {
@@ -31,7 +32,8 @@ namespace map
 
         private void BuyIngredients_Clicked(object sender, EventArgs e)
         {
-
+            chickenBuy = 1;
+            Navigation.PushAsync(new Basket());
         }
 
         private void SaveToFav_Clicked(object sender, EventArgs e)

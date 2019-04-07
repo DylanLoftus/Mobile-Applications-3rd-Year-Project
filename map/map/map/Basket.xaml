@@ -3,10 +3,41 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="map.Basket">
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
-        </StackLayout>
+        <ScrollView>
+            <Grid BackgroundColor="#db2e2e">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"></RowDefinition>
+                    <RowDefinition Height="Auto"></RowDefinition>
+                    <RowDefinition Height="Auto"></RowDefinition>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+
+                <StackLayout BackgroundColor="White" Grid.Row="0" Grid.Column="0">
+                    <StackLayout Orientation="Horizontal">
+                        <Label Text="Basket" HorizontalOptions="StartAndExpand"></Label>
+                        <Image Source="Images/mainicon.png" WidthRequest="25" HeightRequest="25" HorizontalOptions="Center"></Image>
+                    </StackLayout>
+                </StackLayout>
+
+                <StackLayout HorizontalOptions="Center" Grid.Row="1" Margin="0,0,0,40">
+                    <Image x:Name="breadbasket" Source="Images/breadbasket.jpg" Aspect="AspectFill"></Image>
+                    <Image x:Name="chickenbasket" Source="Images/chickenbasket.jpg" Aspect="AspectFill"></Image>
+                    <Image x:Name="chillibasket" Source="Images/chillibasket.jpg" Aspect="AspectFill"></Image>
+                    <Image x:Name="eggsbasket" Source="Images/eggsbasket.jpg" Aspect="AspectFill"></Image>
+                    <Image x:Name="fruitbasket" Source="Images/fruitbasket.jpg" Aspect="AspectFill"></Image>
+                    <Image x:Name="spagbasket" Source="Images/spagbasket.jpg" Aspect="AspectFill"></Image>
+                </StackLayout>
+
+                <StackLayout HorizontalOptions="Center" Grid.Row="2">
+                    <StackLayout Orientation="Horizontal">
+                        <Label Text="Grand Total: "/>
+                        <Label x:Name="grandTotal"/>
+                    </StackLayout>
+                    <Button Text="Buy Now?" Clicked="Button_Clicked"/>
+                </StackLayout>
+            </Grid>
+        </ScrollView>
     </ContentPage.Content>
 </ContentPage>

@@ -667,6 +667,24 @@
     <AppxPackagedFile Include="C:\Users\Dylan\Documents\MAP\map\map\map.UWP\Images\spag.jpeg">
       <PackagePath>Images\spag.jpeg</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dylan\Documents\MAP\map\map\map.UWP\Images\breadbasket.jpg">
+      <PackagePath>Images\breadbasket.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dylan\Documents\MAP\map\map\map.UWP\Images\chickenbasket.jpg">
+      <PackagePath>Images\chickenbasket.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dylan\Documents\MAP\map\map\map.UWP\Images\chillibasket.jpg">
+      <PackagePath>Images\chillibasket.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dylan\Documents\MAP\map\map\map.UWP\Images\eggsbasket.jpg">
+      <PackagePath>Images\eggsbasket.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dylan\Documents\MAP\map\map\map.UWP\Images\fruitbasket.jpg">
+      <PackagePath>Images\fruitbasket.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dylan\Documents\MAP\map\map\map.UWP\Images\spagbasket.jpg">
+      <PackagePath>Images\spagbasket.jpg</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dylan\Documents\MAP\map\map\map.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>

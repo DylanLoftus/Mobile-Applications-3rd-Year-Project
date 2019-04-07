@@ -49,10 +49,6 @@
 
                 </ImageButton>
             </StackLayout>
-
-
-
-
         </Grid>
     </ContentPage.Content>
 </ContentPage>
