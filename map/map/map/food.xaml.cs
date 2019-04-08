@@ -13,6 +13,7 @@ namespace map
 	public partial class Food : ContentPage
 	{
         public static int favClicked;
+        public static int tap2hit = 0;
 
         public Food ()
 		{
@@ -24,7 +25,7 @@ namespace map
         {
             Navigation.PushAsync(new Bread());
         }
-
+       
         // Navigate to Scrambled Eggs page
         private void Eggs_Clicked(object sender, EventArgs e)
         {

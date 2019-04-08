@@ -118,4 +118,6 @@ C:\Users\Dylan\Documents\MAP\map\map\map.Android\obj\Debug\81\res\drawable\chill
 C:\Users\Dylan\Documents\MAP\map\map\map.Android\obj\Debug\81\res\drawable\spagbasket.jpg
 C:\Users\Dylan\Documents\MAP\map\map\map.Android\obj\Debug\81\res\drawable\breadbasket.jpg
 C:\Users\Dylan\Documents\MAP\map\map\map.Android\obj\Debug\81\res\drawable\eggsbasket.jpg
+C:\Users\Dylan\Documents\MAP\map\map\map\bin\Debug\netstandard2.0\map.dll
+C:\Users\Dylan\Documents\MAP\map\map\map.Android\bin\Debug\map.dll.mdb
 C:\Users\Dylan\Documents\MAP\map\map\map.Android\obj\Debug\81\linksrc\map.dll.mdb
