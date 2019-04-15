@@ -73,11 +73,7 @@
                 </StackLayout>
 
                 <StackLayout Margin="0,5,0,0" Grid.Row="5">
-                    <Button Text="Save to my favorites.">
-                        <Button.GestureRecognizers>
-                            <TapGestureRecognizer Tapped="SaveToFav_Clicked" NumberOfTapsRequired="2"/>
-                        </Button.GestureRecognizers>
-                    </Button>     
+                    <Button Text="Save to my favorites." Clicked="SaveToFav_Clicked"/>
                 </StackLayout>
             </StackLayout>
         </Grid>
