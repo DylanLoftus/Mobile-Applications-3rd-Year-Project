@@ -1,4 +1,3 @@
-C:\Users\Dylan\Documents\MAP\map\map\map\obj\Debug\netstandard2.0\map.csprojAssemblyReference.cache
 C:\Users\Dylan\Documents\MAP\map\map\map\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\Users\Dylan\Documents\MAP\map\map\map\obj\Debug\netstandard2.0\Bread.xaml.g.cs
 C:\Users\Dylan\Documents\MAP\map\map\map\obj\Debug\netstandard2.0\Food.xaml.g.cs
@@ -19,4 +18,3 @@ C:\Users\Dylan\Documents\MAP\map\map\map\obj\Debug\netstandard2.0\Eggs.xaml.g.cs
 C:\Users\Dylan\Documents\MAP\map\map\map\obj\Debug\netstandard2.0\Fruit.xaml.g.cs
 C:\Users\Dylan\Documents\MAP\map\map\map\obj\Debug\netstandard2.0\Favorites.xaml.g.cs
 C:\Users\Dylan\Documents\MAP\map\map\map\obj\Debug\netstandard2.0\Basket.xaml.g.cs
-C:\Users\Dylan\Documents\MAP\map\map\map\obj\Debug\netstandard2.0\Recipes.xaml.g.cs
