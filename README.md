@@ -1,4 +1,4 @@
-# Mobile App Project 2019 - Recipes For You
+# Mobile App Project 2019 - Recipes For You (3rd Year Project)
 
 ### How to use the app
 
